@@ -7,6 +7,9 @@ Kmeans algorithm for Yolo anchor boxes.
 Just import this python file and use it.
 
 ## Example
+
+Run the following code:
+
 ```
 import numpy as np
 from numpy.random import rand
@@ -29,3 +32,7 @@ plt.legend(["data", "center"])
 plt.show()
 ```
 or type ```python kmeans.py``` in your terminal.
+
+You will get something like this:
+
+![result](https://i.imgur.com/YI6iwkT.png)
